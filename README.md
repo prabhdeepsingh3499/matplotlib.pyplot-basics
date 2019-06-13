@@ -1,2 +1,2 @@
-# matplotlib_basics
-Basics of matplotlib, a library of python
+# matplotlib.pyplot_basics
+Basics of matplotlib.pyplot, a library of python
